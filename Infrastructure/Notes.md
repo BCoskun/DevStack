@@ -19,6 +19,12 @@ This add-on provides debug kubernetes enviroment.
 # Service Mesh in the Kubernetes
 
 Dapr for Kubernetes can be used to control East-West Traffic in the kubernetes and also can be used in non-kubernetes enviroments as well. 
+Dapr is more than just service mesh. It provides side-card model for distributed microservices and it calls itself as distributed application runtime. 
 
 https://docs.dapr.io/
 https://docs.dapr.io/developing-applications/debugging/debug-k8s/debug-daprd/
+
+# Serverless Platform running on Kubernetes 
+
+https://openwhisk.apache.org/
+https://www.openfaas.com/
