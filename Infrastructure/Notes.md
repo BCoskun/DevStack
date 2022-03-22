@@ -1,4 +1,4 @@
-# Development Enviroment
+# Development Environment
 
 Rancher-Desktop is one of the good tool for Workstations. 
 It provides Kubernetes services as well as Docker compatible API.
@@ -23,6 +23,8 @@ Dapr is more than just service mesh. It provides side-card model for distributed
 
 https://docs.dapr.io/
 https://docs.dapr.io/developing-applications/debugging/debug-k8s/debug-daprd/
+https://docs.microsoft.com/en-us/dotnet/architecture/dapr-for-net-developers/actors
+https://docs.microsoft.com/en-us/dotnet/architecture/dapr-for-net-developers/
 
 # Serverless Platform running on Kubernetes 
 
