@@ -26,3 +26,15 @@ Monitor the job from Nomad UI
 ```sh
 nomad ui
 ```
+
+# Cron scheduled jobs
+
+Please refer to following web site for cron settings. 
+
+- https://crontab.guru/
+
+Following means "At every 5th minute."
+
+```
+*/5 * * * *
+```
